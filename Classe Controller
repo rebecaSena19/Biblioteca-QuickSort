@@ -1,0 +1,23 @@
+package controller;
+
+import br.gov.sp.fatec.sena.rebeca.quicksort.QuickSort;
+
+public class QuickOrdena {
+
+	public QuickOrdena() {
+		super();
+		
+	}
+
+	public void Quick(int[] vetor) {
+		QuickSort ordena =	new QuickSort();
+	int vetor1 = ordena.dividir(vetor, 0, 0);
+	System.out.println (vetor1);
+	
+}
+
+	public void Quick(int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u, int v,
+			int w) {
+		
+	}
+}
